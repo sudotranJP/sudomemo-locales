@@ -16,7 +16,7 @@ msgid "CATEGORY_popular"
 msgstr "人気作品"
 
 msgid "CATEGORY_random"
-msgstr "@作品をランダムに表示"
+msgstr "@ランダム表示"
 
 msgid "CATEGORY_recent"
 msgstr "新着作品"

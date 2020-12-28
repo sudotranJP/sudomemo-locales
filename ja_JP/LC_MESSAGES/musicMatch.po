@@ -35,7 +35,7 @@ msgstr "YouTubeとSpotifyとの連携が利用可能です："
 
 # Year song was published
 msgid "RELEASE_YEAR"
-msgstr "リリース済"
+msgstr "リリース年"
 
 msgid "SONG_ID"
 msgstr "音楽ID"

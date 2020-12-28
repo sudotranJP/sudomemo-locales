@@ -260,4 +260,4 @@ msgstr "ようこそ、 %sさん！"
 
 # A URL will be shown at the end of this.
 msgid "LEGACY_PROXY_WARNING"
-msgstr "It looks like you may still be using the legacy ds.sudomemo.net proxy, which we have ended support for. As such, you should turn off the proxy in your System Settings, or you might have problems using Sudomemo. For more information, visit:"
+msgstr "サポートが終了した従来のds.sudomemo.netプロキシをまだ使用しているようです。そのため、システム設定でプロキシをオフにする必要があります。そうしないと、Sudomemoの使用に問題が発生する可能性があります。詳細については 、訪問:"
